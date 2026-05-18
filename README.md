@@ -1,4 +1,4 @@
-# Song-creator
+# song-creator
 Song creator with Huggingface
 
 Live preview:
